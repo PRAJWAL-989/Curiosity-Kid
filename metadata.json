@@ -1,0 +1,6 @@
+{
+  "name": "The Circuit Kid - Baby's First Website",
+  "description": "An interactive, 2D kid-doodle storybook following 8-year-old Prajwal's spark of invention, featuring real-time accessibility physics, crayon-bleed aesthetics, and Track 2 character portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
